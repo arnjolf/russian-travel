@@ -6,7 +6,7 @@
   letter-spacing: 0em;
   text-align: left;
   color: white;
-  transition: opacity 0.9s linear;
+  transition: opacity 0.2s linear;
 }
 
 .place__link:hover {
@@ -14,7 +14,7 @@
 }
 
 @media (max-width: 767px) {
-  .place__url-link {
+  .place__link {
     margin: 0 16px;
   }
 }
