@@ -9,7 +9,7 @@
   text-align: left;
 }
 
-@media (max-wodth: 1023px) {
+@media (max-width: 1023px) {
   .place__url-heading {
     line-height: 12px;
   }
